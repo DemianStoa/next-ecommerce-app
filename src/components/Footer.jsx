@@ -5,10 +5,10 @@ const Footer = () => {
   return (
     <div>
       <p>2023 Demian Headphones All rights reserved</p>
-      <p className="icons">
+      <div className="icons">
         <AiFillInstagram />
         <AiOutlineTwitter />
-      </p>
+      </div>
     </div>
   )
 }

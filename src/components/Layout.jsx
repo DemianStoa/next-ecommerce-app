@@ -4,7 +4,6 @@ import { Footer, Navbar } from './'
 
 const Layout = ({ children }) => {
   return (
-    <>
     <div className="layout">
       <Head>
         <title> Demian Stoa </title>
@@ -19,7 +18,6 @@ const Layout = ({ children }) => {
         <Footer />
       </footer>
     </div>
-    </>
   )
 }
 

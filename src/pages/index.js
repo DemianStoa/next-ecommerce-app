@@ -4,7 +4,7 @@ import { client } from '@/lib/client'
 
 const Home = ({ products, bannerData }) => {
   return (
-    <div>
+   <div>
     <HeroBanner heroBanner={bannerData.length && bannerData[0]} />
 
       <div className='products-heading'>
@@ -19,8 +19,7 @@ const Home = ({ products, bannerData }) => {
       </div>
 
       <FooterBanner footerBanner={bannerData && bannerData[0]} />
-
-    </div>
+      </div>
   )
 }
 
