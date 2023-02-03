@@ -5,10 +5,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npm run dev
-# or
+npm run dev![Screenshot_20230203_041349](https://user-images.githubusercontent.com/118702451/216547759-ab395a46-4590-4de1-956d-452db03967bb.png)
+
+# or![Screenshot_20230203_041435](https://user-images.githubusercontent.com/118702451/216547770-e22e139d-d337-4a79-8326-690aae1e8a1b.png)![Screenshot_20230203_041515](https://user-images.githubusercontent.com/118702451/216547777-9e2413e7-d711-4d02-aa51-a360569c078e.png)
+
+
 yarn dev
-# or
+# or![Screenshot_20230202_085643](https://user-images.githubusercontent.com/118702451/216547741-6898a7e1-1459-470e-90ca-dd391581da55.png)
+
 pnpm dev
 ```
 
